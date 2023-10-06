@@ -1,0 +1,13 @@
+
+
+li a {
+    color: green;
+}
+
+body {
+    background: rgb(215, 211, 211);
+}
+
+div {
+    background: white url("images/background.jpg") no-repeat;
+}
