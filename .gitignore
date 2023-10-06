@@ -1,0 +1,12 @@
+# liste des fichiers à ignorer
+myprojectenv/
+db.sqlite3
+*.pyc
+__pycache__/
+local_settings.py
+.DS_Store
+.idea/
+.vscode/
+.venv/
+env/
+venv/
