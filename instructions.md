@@ -42,6 +42,10 @@ python manage.py runserver 8080
 git init
 git add .
 git commit -m "Initial commit"
+
+git branch -M main
+git remote add origin https://github.com/tawounfouet/premier-pas-avec-django.git
+git push -u origin main
 ```
 
 ## Création du fichier .gitignore
